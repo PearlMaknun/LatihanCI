@@ -1,0 +1,9 @@
+body{
+	background-image: url('assets/images/futsal-HD.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+h1{
+    background-color: red;
+}
